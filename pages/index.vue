@@ -1,7 +1,7 @@
 <template>
-  <Tutorial/>
+  <Splash />
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
