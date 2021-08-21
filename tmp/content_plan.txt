@@ -1,0 +1,20 @@
+
+
+Splash - Intro: My name is...
+Navigation CTA
+Contact CTA
+
+About me
+
+My Stack
+
+My Experience
+
+Built Solutions for: MNRead, eVDiscovery, Boveda, Keller Williams
+
+My Samples -    This is where I would normally put a list of projects I built for my work/clients but those projects were NOT designed or speced by me.
+                Instead, I will show you some of the things I built to showcase my skills.
+
+Blog -          
+
+Contact Form - 
