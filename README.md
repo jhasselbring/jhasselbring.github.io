@@ -1,4 +1,4 @@
-# jhasselbring2
+# JHasselbring
 
 ## Build Setup
 

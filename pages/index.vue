@@ -1,5 +1,17 @@
 <template>
-  <Splash />
+  <div>
+    <Nav/>
+    <Splash/>
+    <PostSplashCTA />
+    <AboutMe />
+    <MyStack />
+    <MyTools />
+    <MySamples />
+    <MyExperience />
+    <Articles />
+    <ContactForm />
+    <Footer />
+  </div>
 </template>
 
 <script>

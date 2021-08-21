@@ -8,13 +8,16 @@ About me
 
 My Stack
 
-My Experience
+My Tools
 
-Built Solutions for: MNRead, eVDiscovery, Boveda, Keller Williams
+
 
 My Samples -    This is where I would normally put a list of projects I built for my work/clients but those projects were NOT designed or speced by me.
                 Instead, I will show you some of the things I built to showcase my skills.
 
-Blog -          
+My Experience
+Built Solutions for: MNRead, eVDiscovery, Boveda, Keller Williams
 
-Contact Form - 
+Articles -
+
+Contact Form -
