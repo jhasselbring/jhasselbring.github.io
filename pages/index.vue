@@ -1,7 +1,7 @@
 <template>
   <div class="bg-gray-300">
     <Nav/>
-    <Splash/>
+    <SplashMain />
     <PostSplashCTA />
     <AboutMe />
     <MyStack />
