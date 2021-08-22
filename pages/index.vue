@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-gray-300">
     <Nav/>
     <Splash/>
     <PostSplashCTA />
