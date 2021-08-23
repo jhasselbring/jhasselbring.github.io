@@ -1,6 +1,6 @@
 <template>
   <div class="bg-gray-300">
-    <Nav/>
+    <Nav class="z-10" />
     <SplashMain />
     <PostSplashCTA />
     <AboutMe />

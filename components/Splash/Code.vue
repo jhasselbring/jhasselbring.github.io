@@ -1,6 +1,6 @@
 <template>
   <div class="bg-gray-900 text-white flex">
-    <div class="flex-initial bg-gray-800">
+    <div class="flex-initial bg-gray-800" >
       <pre>
      1&nbsp;
      2&nbsp;
@@ -17,7 +17,7 @@
     13&nbsp;
       </pre>
     </div>
-    <div class="flex-1">
+    <div class="flex-1" style="box-shadow: inset 0 0 15px rgba(0,0,0,0.5);">
           <pre>
     <span class="green">
       /**

@@ -1,5 +1,5 @@
 <template>
-  <div class="flex">
+  <div class="flex bg-gray-700 py-5">
     <div class="flex-1 text-right">
       <ElementsButton text="See My Work" href="#samples" />
     </div>

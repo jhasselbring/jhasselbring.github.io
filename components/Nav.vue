@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed w-full bg-gray-700">
+  <div class="fixed w-full" style="backdrop-filter: blur(15px); background-color: rgba(55, 65, 81, 0.6);">
     <ul class="w-1/3 flex text-center text-white">
       <li class="flex-1 hover:bg-gray-600 cursor-pointer">
         <a href="#" class="block"><span class="underline">A</span>bout</a>
